@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://bclovecoding.github.io/2020/08/17/instal-git-on-alpine-linux/</loc>
+    
+    <lastmod>2020-08-17T07:53:04.427Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://bclovecoding.github.io/2020/08/17/install-gitlab-on-docker/</loc>
     
     <lastmod>2020-08-17T07:35:25.816Z</lastmod>

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://bclovecoding.github.io/"/>
-  <updated>2020-08-17T07:35:25.816Z</updated>
+  <updated>2020-08-17T07:53:04.427Z</updated>
   <id>https://bclovecoding.github.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Instal Git On Alpine Linux</title>
+    <link href="https://bclovecoding.github.io/2020/08/17/instal-git-on-alpine-linux/"/>
+    <id>https://bclovecoding.github.io/2020/08/17/instal-git-on-alpine-linux/</id>
+    <published>2020-08-17T07:50:05.000Z</published>
+    <updated>2020-08-17T07:53:04.427Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;1-安装Git&quot;&gt;&lt;a href=&quot;#1-安装Git&quot; class=&quot;headerlink&quot; title=&quot;1. 安装Git&quot;&gt;&lt;/a&gt;1. 安装Git&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;# apk add git&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+      <category term="开发" scheme="https://bclovecoding.github.io/categories/%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="Git" scheme="https://bclovecoding.github.io/tags/Git/"/>
+    
+      <category term="Linux" scheme="https://bclovecoding.github.io/tags/Linux/"/>
+    
+      <category term="Alpine" scheme="https://bclovecoding.github.io/tags/Alpine/"/>
+    
+  </entry>
   
   <entry>
     <title>Install GitLab On Docker</title>
